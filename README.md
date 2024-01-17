@@ -59,5 +59,5 @@ python APP.py
 ```
 ## Demo Interface
 ![image](https://github.com/Quynh-2302/emotion-chatbot/assets/85424168/bf6d7cc7-fed3-4222-9392-b3e92b2ba671)
-![image](https://github.com/Quynh-2302/emotion-chatbot/assets/85424168/c2c8f45c-9a64-45a0-913e-2597775fe10a)
+
 
