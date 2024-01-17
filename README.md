@@ -1,17 +1,10 @@
 # Emotion-based-Chatbot
-NUS IS5452 Project
 
 **Folders:**
-
 - *EmotionRecognition*: Code of emotion recognition model
 - *Generation*: Code of GPT-2 text generation model
 - *GUI*: Code to create graphical user interface 
 - *Serving*: Code to start the emotion recognition model service (avoid tensorflow conflicts when the GPT-2 model)
-
-**Demo:**
-
-- *LittleGenius_Demo.mp4*: Shows how this application works
-
 
 ## Before starting the program
 Clone this repo to a desired local location.
@@ -64,3 +57,7 @@ cd ../GUI
 python APP.py
 
 ```
+## Demo Interface
+![image](https://github.com/Quynh-2302/emotion-chatbot/assets/85424168/bf6d7cc7-fed3-4222-9392-b3e92b2ba671)
+![image](https://github.com/Quynh-2302/emotion-chatbot/assets/85424168/c2c8f45c-9a64-45a0-913e-2597775fe10a)
+
